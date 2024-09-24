@@ -1,2 +1,2 @@
-# StatsBomb-xG
-Repo for creating xG plots using StatsBomb data
+# StatsBomb-Plots
+Repo for creating various plots using StatsBomb free data
